@@ -1,6 +1,5 @@
 package LinkedList;
 
-import ch.qos.logback.core.joran.action.NewRuleAction;
 
 public class LinkedListMethods {
 

@@ -22,7 +22,7 @@ public class findDissAppeared {
 		int last = nums[nums.length - 1];
 		System.out.println("first " + first);
 		System.out.println("last " + last);
-		List<Integer> ans = new ArrayList();
+		List<Integer> ans = new ArrayList<>();
 		// ans.addAll(nums);
 		for (int i = first; i < last; i++) {
 			if (i == nums[i]) {
