@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "duplicateCharacterInString",
+            "request": "launch",
+            "mainClass": "LeetcodePractice.duplicateCharacterInString",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
