@@ -1,16 +1,21 @@
 package Recursion;
 
-public class sumOfDigits {
+public class sumofdigits {
+  public static void main(String[] args) {
+    System.out.println(sum(12345));
+  }
 
-	public static void main(String[] args) {
-		int ans =sum(0107);
-		System.out.println(ans);
-	}
+  private static int sum(int number) {
+    return helper(number, 0);
+  }
 
-	public static int sum(int n) {
-		if (n<1) {
-			return 0;
-		}
-		return n % 10 + sum(n / 10);
-	}
+  private static int helper(int number, int sum) {
+    if (number == 0) {
+      return sum;
+    }
+    int rem = number % 10;
+    sum += rem;
+    return helper(number / 10, sum);
+  }
+
 }
