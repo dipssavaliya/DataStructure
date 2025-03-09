@@ -6,11 +6,11 @@ public class subseq {
   static int count = 0;
 
   public static void main(String[] args) {
-    subseq("", "abc");
+    //subseq("", "abc");
     // ArrayList<String> list = new ArrayList<>();
     // list = subseqList("", "abc");
     // System.out.println(list.toString());
-    subseqCount(0, "", "abc");
+    //subseqCount(0, "", "abc");
   }
 
   private static void subseq(String processed, String up) {
@@ -32,7 +32,7 @@ public class subseq {
     char ch = up.charAt(0);
     subseqCount(count + 1, processed + ch, up.substring(1));
     subseqCount(count + 1, processed, up.substring(1));
-    //return number+count;
+    return count;
   }
 
   private static ArrayList<String> subseqList(String processed, String up) {

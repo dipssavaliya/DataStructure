@@ -5,15 +5,18 @@ public class diceProblem {
     diceProMethod("", 4);
   }
 
-  private static void diceProMethod(String processed, int target) {
-    if (target == 0) {
+  private static void diceProMethod(String processed, int target)
+  {
+    if (target == 0)
+    {
       System.out.println(processed);
       return;
     }
-    for (int i = 1; i <= 6 && i<=target; i++) {
-      if(i<=target)
+    for (int i = 1; i <= 6 && i<= target; i++)
+    {
+      if (i <= target)
       {
-        diceProMethod(processed+i,target-i);
+        diceProMethod(processed + i, target - i);
         //diceProMethod(processed, target);
 
       }
