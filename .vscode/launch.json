@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maxArea",
+            "request": "launch",
+            "mainClass": "TwoPointer.maxArea",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "isSubsequence",
+            "request": "launch",
+            "mainClass": "TwoPointer.isSubsequence",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "moveZeros",
+            "request": "launch",
+            "mainClass": "TwoPointer.moveZeros",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "diceProblem",
+            "request": "launch",
+            "mainClass": "Recursion.diceProblem",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "phonePad",
+            "request": "launch",
+            "mainClass": "Recursion.phonePad",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "subseq",
+            "request": "launch",
+            "mainClass": "Recursion.subseq",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "powerOf3",
+            "request": "launch",
+            "mainClass": "powerOf3",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "stringGame",
+            "request": "launch",
+            "mainClass": "stringGame",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Recursion.MergeSort",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "selectionsort",
+            "request": "launch",
+            "mainClass": "Recursion.selectionsort",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "Recursion.pattern1",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "rotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion.rotatedBinarySearch",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "subsets",
+            "request": "launch",
+            "mainClass": "Recursion.subsets",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
             "name": "duplicateCharacterInString",
             "request": "launch",
             "mainClass": "LeetcodePractice.duplicateCharacterInString",
