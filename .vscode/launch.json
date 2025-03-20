@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "eliminationGame",
+            "request": "launch",
+            "mainClass": "Recursion.eliminationGame",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "maze",
+            "request": "launch",
+            "mainClass": "Recursion.maze",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "maze",
+            "request": "launch",
+            "mainClass": "BackTracking.maze",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "mazeProblem",
+            "request": "launch",
+            "mainClass": "Recursion.mazeProblem",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "maxArea1",
+            "request": "launch",
+            "mainClass": "TwoPointer.maxArea1",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
             "name": "maxArea",
             "request": "launch",
             "mainClass": "TwoPointer.maxArea",
