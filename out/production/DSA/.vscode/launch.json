@@ -1,0 +1,588 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "eliminationGame",
+            "request": "launch",
+            "mainClass": "Recursion.eliminationGame",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "maze",
+            "request": "launch",
+            "mainClass": "Recursion.maze",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "maze",
+            "request": "launch",
+            "mainClass": "BackTracking.maze",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "mazeProblem",
+            "request": "launch",
+            "mainClass": "Recursion.mazeProblem",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "maxArea1",
+            "request": "launch",
+            "mainClass": "TwoPointer.maxArea1",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "maxArea",
+            "request": "launch",
+            "mainClass": "TwoPointer.maxArea",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "isSubsequence",
+            "request": "launch",
+            "mainClass": "TwoPointer.isSubsequence",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "moveZeros",
+            "request": "launch",
+            "mainClass": "TwoPointer.moveZeros",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "diceProblem",
+            "request": "launch",
+            "mainClass": "Recursion.diceProblem",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "phonePad",
+            "request": "launch",
+            "mainClass": "Recursion.phonePad",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "subseq",
+            "request": "launch",
+            "mainClass": "Recursion.subseq",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "powerOf3",
+            "request": "launch",
+            "mainClass": "powerOf3",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "stringGame",
+            "request": "launch",
+            "mainClass": "stringGame",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Recursion.MergeSort",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "selectionsort",
+            "request": "launch",
+            "mainClass": "Recursion.selectionsort",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "Recursion.pattern1",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "rotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion.rotatedBinarySearch",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "subsets",
+            "request": "launch",
+            "mainClass": "Recursion.subsets",
+            "projectName": "DataStructure_41d54df5"
+        },
+        {
+            "type": "java",
+            "name": "duplicateCharacterInString",
+            "request": "launch",
+            "mainClass": "LeetcodePractice.duplicateCharacterInString",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch.BinarySearch",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "NonDuplicate",
+            "request": "launch",
+            "mainClass": "BinarySearch.NonDuplicate",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "OrderAgnosticBS",
+            "request": "launch",
+            "mainClass": "BinarySearch.OrderAgnosticBS",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBS",
+            "request": "launch",
+            "mainClass": "BinarySearch.RotatedBS",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "SearchInMountain",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInMountain",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "SearchInsertPosition",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInsertPosition",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "ceiling",
+            "request": "launch",
+            "mainClass": "BinarySearch.ceiling",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findPeakElement",
+            "request": "launch",
+            "mainClass": "BinarySearch.findPeakElement",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "firstAndLastPosition",
+            "request": "launch",
+            "mainClass": "BinarySearch.firstAndLastPosition",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "flooring",
+            "request": "launch",
+            "mainClass": "BinarySearch.flooring",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "infiniteArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.infiniteArray",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "minInRBS",
+            "request": "launch",
+            "mainClass": "BinarySearch.minInRBS",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "mountainArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.mountainArray",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "sqrt",
+            "request": "launch",
+            "mainClass": "BinarySearch.sqrt",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "BinarySearch.twoSum",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "versionControl",
+            "request": "launch",
+            "mainClass": "BinarySearch.versionControl",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkListMain",
+            "request": "launch",
+            "mainClass": "LinkedList.DoublyLinkListMain",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListMain",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListMain",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListTrial",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListTrial",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findDissAppeared",
+            "request": "launch",
+            "mainClass": "LinkedList.findDissAppeared",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "palindrom",
+            "request": "launch",
+            "mainClass": "LinkedList.palindrom",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "funrev",
+            "request": "launch",
+            "mainClass": "Recursion.funrev",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "palindromString",
+            "request": "launch",
+            "mainClass": "Recursion.palindromString",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "prodOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.prodOfDigits",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "Recursion.reverse",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.sumOfDigits",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "RecursionPatternsSorting.MergeSort",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "RPatterns",
+            "request": "launch",
+            "mainClass": "RecursionPatternsSorting.RPatterns",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "SortingRecursion",
+            "request": "launch",
+            "mainClass": "RecursionPatternsSorting.SortingRecursion",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "MobileCharacters",
+            "request": "launch",
+            "mainClass": "RecursionString.MobileCharacters",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "skipCharacter",
+            "request": "launch",
+            "mainClass": "RecursionString.skipCharacter",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "skipString",
+            "request": "launch",
+            "mainClass": "RecursionString.skipString",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "RecursionString.subset",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findIndex",
+            "request": "launch",
+            "mainClass": "Recursionarray.findIndex",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findIndex_noparameter",
+            "request": "launch",
+            "mainClass": "Recursionarray.findIndex_noparameter",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "sorted",
+            "request": "launch",
+            "mainClass": "Recursionarray.sorted",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "MaximumandDecrsing",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.MaximumandDecrsing",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "MountainArray_M",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.MountainArray_M",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "PairDifference",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.PairDifference",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "Print3largest",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.Print3largest",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findMissing",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.findMissing",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findPair",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.findPair",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "firstRepeatingElement",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.firstRepeatingElement",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "insertArray",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.insertArray",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "largestPair_M",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.largestPair_M",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "missingandRepeating",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.missingandRepeating",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "sumClosetoZero",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.sumClosetoZero",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "tripletsForZero",
+            "request": "launch",
+            "mainClass": "SerchingAlgo.tripletsForZero",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "Cyclic",
+            "request": "launch",
+            "mainClass": "Sorting.Cyclic",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "MissingAllNumbers",
+            "request": "launch",
+            "mainClass": "Sorting.MissingAllNumbers",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findAllDuplicates",
+            "request": "launch",
+            "mainClass": "Sorting.findAllDuplicates",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "findDuplicate",
+            "request": "launch",
+            "mainClass": "Sorting.findDuplicate",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "missingNumber",
+            "request": "launch",
+            "mainClass": "Sorting.missingNumber",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "DemoStackQueue",
+            "request": "launch",
+            "mainClass": "StackQueue.DemoStackQueue",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "QueueMain",
+            "request": "launch",
+            "mainClass": "StackQueue.QueueMain",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "QueueTimeCal",
+            "request": "launch",
+            "mainClass": "StackQueue.QueueTimeCal",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "stcakmain",
+            "request": "launch",
+            "mainClass": "StackQueue.stcakmain",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "stringPalindrom",
+            "request": "launch",
+            "mainClass": "TwoPointer.stringPalindrom",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "twoPointrString",
+            "request": "launch",
+            "mainClass": "TwoPointer.twoPointrString",
+            "projectName": "DataStructure_2432651"
+        },
+        {
+            "type": "java",
+            "name": "twoSum(1)",
+            "request": "launch",
+            "mainClass": "TwoPointer.twoSum",
+            "projectName": "DataStructure_2432651"
+        }
+    ]
+}
