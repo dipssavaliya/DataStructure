@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "minimumOperations",
+            "request": "launch",
+            "mainClass": "Array.minimumOperations",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "minimumAbsoluteDiff",
+            "request": "launch",
+            "mainClass": "Array.minimumAbsoluteDiff",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "specialDiscount",
+            "request": "launch",
+            "mainClass": "Array.specialDiscount",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "validMountainArray",
+            "request": "launch",
+            "mainClass": "Array.validMountainArray",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "eliminationGame",
             "request": "launch",
             "mainClass": "Recursion.eliminationGame",
