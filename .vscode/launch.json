@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "threeSum",
+            "request": "launch",
+            "mainClass": "TwoPointer.threeSum",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "countGoodNumbers",
+            "request": "launch",
+            "mainClass": "math.countGoodNumbers",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "maxAreaWater",
+            "request": "launch",
+            "mainClass": "TwoPointer.maxAreaWater",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
+            "name": "minimiumOper",
+            "request": "launch",
+            "mainClass": "Array.minimiumOper",
+            "projectName": "DSA_79061d18"
+        },
+        {
+            "type": "java",
             "name": "minimumOperations",
             "request": "launch",
             "mainClass": "Array.minimumOperations",
